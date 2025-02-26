@@ -1,2 +1,4 @@
 # Foodify-FoodDeliveryApp-UI-UX
-A food delivery app prototype – Foodify, focusing on a seamless user experience and an intuitive interface
+
+##Figma Design
+Check out the Figma Design Here: https://www.figma.com/design/7zyfByVafh1UggGvFYllBu/Foodify-Food-Delivery-App?node-id=0-1&t=kKh30x35uCJbYCpd-1
